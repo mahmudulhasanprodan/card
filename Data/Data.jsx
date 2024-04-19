@@ -9,27 +9,61 @@ export const ProductData = [
         titlle: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
         price: true,
         img: img1,
-        percentage: 50  
+        discountprice: 750,
+        mainprice: 1000,
+        commission: "50%"
     },
+
     {
-        id: 1,
+        id: 2,
         titlle: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
         price: true,
         img: img1,
-        percentage: 50  
+        discountprice: 750,
+        mainprice: 1500,
+        commission: "50%" 
     },
+
     {
-        id: 1,
+        id: 3,
         titlle: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
         price: true,
         img: img1,
-        percentage: 50  
+        discountprice: 750,
+        mainprice: 1500,
+        commission: "50%" 
     },
+
     {
-        id: 1,
+        id: 4,
         titlle: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
         price: true,
         img: img1,
-        percentage: 50  
-    }
+        discountprice: 750,
+        mainprice: 1500,
+        commission: "50%" 
+    },
+
+    {
+        id: 5,
+        titlle: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        price: true,
+        img: img1,
+        discountprice: 750,
+        mainprice: 2500,
+        commission: "50%"
+    },
+
+    {
+        id: 6,
+        titlle: "Lorem ipsum dolor sit amet consectetur adipisicing elit",
+        price: true,
+        img: img1,
+        discountprice: 750,
+        mainprice: 1500,
+        commission: "50%" 
+    },
+  
+  
+  
 ]
